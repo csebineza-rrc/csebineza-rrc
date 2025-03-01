@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Scientists found out that Tomatoes feel pain too.
+- ⚡ Fun fact: .
 
 <!---
 csebineza-rrc/csebineza-rrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
